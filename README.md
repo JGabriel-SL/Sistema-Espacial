@@ -2,11 +2,27 @@
 
 - Endereço da aplicação: http://127.0.0.1:5000/
 
+Para criar o ambiente virtual:
+
+```
+python -m venv env    
+```
+
+Para executar o ambiente virtual:
+```
+.\env\Scripts\activate.bat
+```
+
+Para instalar as dependências:
+
+```
+pip install -r requiriments.txt
+```
+
 Para iniciar a aplicação é necessário usar o seguinte comando:
 
 ```
 python app.py
-
 ```
 
 ## Rotas para requisição
