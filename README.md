@@ -1,5 +1,12 @@
 # Documentação
 
+Membros da equipe:
+
+- Ana Gabrielly Gonçalves da Silva - 202102042917
+- João Gabriel de Souza Lima - 202108802077
+- Felipe Loiola de Oliveira Junior - 202304552096
+- Adalberto Gomes da Rocha Filho - 202202903124
+
 - Endereço da aplicação: http://127.0.0.1:5000/
 
 Para criar o ambiente virtual:
